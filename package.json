@@ -1,0 +1,23 @@
+{
+  "name": "mongoose_relacionamentos",
+  "version": "1.0.0",
+  "description": "github: https://github.com/diogopaza/mongoose_relacionamentos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogopaza/mongoose_relacionamentos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogopaza/mongoose_relacionamentos/issues"
+  },
+  "homepage": "https://github.com/diogopaza/mongoose_relacionamentos#readme",
+  "dependencies": {
+    "mongoose": "^5.0.1"
+  }
+}
